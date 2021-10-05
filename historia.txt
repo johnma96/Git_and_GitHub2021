@@ -4,7 +4,7 @@ Mario Montoya tiene 25 años y nació en Colombia
 
 Esta es la nueva historia del gemelo de mario en gmail, con un nuevo SSH
 
-Ahora que el gemelo sabe trabajar, quiere probar un pull request
+Ahora que el gemelo sabe trabajar, quiere probar un pull request y tiene 25 años
 
 Hoy hablaremos de su historia y sus pasiones
 le encanta el basket y comer hamburguesas
