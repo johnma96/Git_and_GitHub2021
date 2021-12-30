@@ -8,6 +8,8 @@ Ahora que el gemelo sabe trabajar, quiere probar un pull request y tiene 25 año
 
 Master 1 para practicar rebase
 
+Master 2
+
 Hoy hablaremos de su historia y sus pasiones
 le encanta el basket y comer hamburguesas
 y salir con su novia
